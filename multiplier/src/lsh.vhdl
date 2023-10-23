@@ -1,3 +1,8 @@
+--
+-- This software is licensed under BSD0 (public domain).
+-- Therefore, this software belongs to humanity.
+-- See COPYING for more info.
+--
 -- The left shifter
 library IEEE;
 use IEEE.std_logic_1164.all;
