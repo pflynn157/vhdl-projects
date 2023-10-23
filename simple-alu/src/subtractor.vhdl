@@ -1,3 +1,8 @@
+--
+-- This software is licensed under BSD0 (public domain).
+-- Therefore, this software belongs to humanity.
+-- See COPYING for more info.
+--
 -- 8-bit subtractor
 --
 -- A subtractor is actually a pretty simple circuit. All we need

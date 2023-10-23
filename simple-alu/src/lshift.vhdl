@@ -1,4 +1,8 @@
-
+--
+-- This software is licensed under BSD0 (public domain).
+-- Therefore, this software belongs to humanity.
+-- See COPYING for more info.
+--
 -- This provides an excellent picture of how a barrel shifter works
 -- https://stackoverflow.com/questions/10932578/how-are-shifts-implemented-on-the-hardware-level
 

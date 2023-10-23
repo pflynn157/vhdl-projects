@@ -1,3 +1,8 @@
+--
+-- This software is licensed under BSD0 (public domain).
+-- Therefore, this software belongs to humanity.
+-- See COPYING for more info.
+--
 -- Take the 2's complement of a number
 library ieee;
 use ieee.std_logic_1164.all;

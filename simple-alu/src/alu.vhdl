@@ -1,3 +1,9 @@
+--
+-- This software is licensed under BSD0 (public domain).
+-- Therefore, this software belongs to humanity.
+-- See COPYING for more info.
+--
+
 -- How this works:
 -- The process is used whenever a particular signal changes.
 --
